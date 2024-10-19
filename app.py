@@ -219,7 +219,7 @@ def run_steps(video_path):
     progress_bar.progress(40)
 
     # Step 3: Correct transcription
-    step_placeholder.write("Step 3: Correcting transcription using Azure OpenAI...")
+    step_placeholder.write("Step 3: Correcting transcription...")
     time.sleep(1)  # Simulate delay
     corrected_trans = correct_transcription_azure(transcription)
     progress_bar.progress(60)
