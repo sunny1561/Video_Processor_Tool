@@ -1,6 +1,5 @@
 streamlit
 tensorflow>=2.0.0
-
 transformers
 librosa
 gtts
