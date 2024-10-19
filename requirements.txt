@@ -8,5 +8,3 @@ openai==0.28.0
 python-dotenv==1.0.0
 concurrent-log-handler==0.9.24
 tensorflow==2.14.0
-tf-keras==2.14.0
-
