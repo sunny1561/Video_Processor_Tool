@@ -1,0 +1,8 @@
+streamlit
+transformers
+librosa
+gtts
+moviepy
+ffmpeg-python
+python-dotenv
+openai
