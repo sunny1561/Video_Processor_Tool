@@ -7,3 +7,4 @@ moviepy
 ffmpeg-python
 python-dotenv
 openai
+tf-keras
